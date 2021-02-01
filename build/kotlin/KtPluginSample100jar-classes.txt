@@ -1,0 +1,1 @@
+C:\Develoapment\KtPluginSample\build\classes\kotlin\main\com\darrime\Test\test.class

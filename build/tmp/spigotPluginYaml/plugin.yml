@@ -1,0 +1,4 @@
+main: com.darrime.Test.test
+name: KtPluginSample
+version: 1.0.0
+authors: [HeartPattern]
